@@ -16,3 +16,4 @@
 0.0.0.0 mask.icloud.com
 0.0.0.0 doh.dns.apple.com
 0.0.0.0 iadsdk.apple.com
+0.0.0.0 *.iadsdk.apple.com
