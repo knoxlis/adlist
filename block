@@ -1,0 +1,17 @@
+!
+! Title: AdGuard DNS Blocklist
+! Description: Blocked domains
+! Homepage: https://github.com/knoxlis/adlist
+! Last modified: 2024-01-21T23:05:22.744Z
+!
+! Compiled by @knoxlis
+!
+!
+! Source name: knoxlis adlist
+! Source: https://raw.githubusercontent.com/
+!
+
+
+0.0.0.0 niimbot.com
+0.0.0.0 *.niimbot.com
+! 0.0.0.0 ||iadsdk.apple.com
