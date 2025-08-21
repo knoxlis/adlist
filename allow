@@ -18,3 +18,5 @@
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 *.iadsdk.apple.com
 0.0.0.0 ||iadsdk.apple.com
+0.0.0.0 2k.com
+0.0.0.0 *.2k.com
